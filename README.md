@@ -29,3 +29,8 @@ public static void main(){
   System.out.println("Hello World");
 }
 ```
+
+
+# Adding an image for testing purpose, Who else it could be? CR7 (The GOAT) and Messi (the 2nd GOAT) :
+
+![GOATS of Football](https://github.com/kdcool98/kdcool98.github.io/blob/main/Pin%20by%20Sheeba%20Rani%20on%20Barca%20_%20Messi%20vs%2C%20Messi%20and%20ronaldo%2C%20Messi%20vs%20ronaldo.jpg)
